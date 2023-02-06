@@ -1,0 +1,77 @@
+25-11-22
+Assuntos abordados:
+- Hello World Java.
+- Estruturas de decisão (if...else, switch...case).
+- laço de repetição (do...while).
+- Variáveis.
+- Classe Scanner.
+- Entrada de dados.
+
+29-11-22
+Assuntos abordados:
+- Introdução à Programação Orientada à Objetos.
+- Classe Java.
+- Atributos e Métodos de uma Classe.
+- Instanciando objeto de uma classe.
+- Corrigindo o problema de leitura de caracteres do Eclipse.
+- Link da apostila.
+- Dicas de livros de Java.
+
+01-12-22
+Assuntos abordados:
+- Método Construtor.
+- Biblioteca Swing.
+- Graphics User Interface.
+- Classe JOPtionPane.
+- showMessageDialog.
+- showInputDialog.
+- Criando um executável JAR.
+
+06-12-22
+Assuntos abordados:
+- Métodos sem parâmetro e sem retorno.
+- Métodos sem parâmetro e com retorno.
+- Métodos com parâmetro e sem retorno.
+- Métodos com parâmetro e com retorno.
+- Tipos de retorno de método das classes.
+
+07-12-22
+Assuntos abordados:
+- 2 mini-projetos (IMC e Combustível).
+- Array (vetor).
+- Laço de repetição com array.
+
+08-12-22
+Assuntos abordados:
+- Herança.
+- Classes abstratas.
+- Classes finais.
+- Introdução ao polimorfismo.
+
+13-12-22
+Assuntos abordados:
+- Polimorfismo.
+- Comando "super".
+- Encapsulamento.
+- Modificadores de acesso.
+- Métodos de acesso "getters" e "setters".
+
+14-12-22
+Assuntos abordados:
+- Interfaces
+
+16-12-22
+Assuntos abordados:
+- Associação entre classes.
+
+20-12-22
+Assuntos abordados:
+- Criação na conta do GitHub.
+- Criação do primeiro repositório.
+
+22-12-22
+Assuntos abordados:
+- UML.
+- Diagrama de Classes.
+- Astah Community.
+- Documentação.
